@@ -31,7 +31,3 @@ $ sudo pacman -Syu
 ```zsh
 python main.py
 ```
-
-## KDE Plasma
-
-If you wanna to generate icon for KDE Plasma, plz refer to [BlackKdeMenu](https://github.com/sakurafisch/BlackarchKdeMenu)
